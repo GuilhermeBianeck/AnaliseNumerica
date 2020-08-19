@@ -1,0 +1,299 @@
+Questao 3 - A - Metodo Gauss Seidel
+
+Matrix -  [[4, 1, 1, 6], [2, 5, 2, 3], [1, 2, 4, 11]]
+ Iteracao 1
+Chute [ 0 ] =  6 / 4 = 1
+Chute [ 1 ] =  1 / 5 = 0
+Chute [ 2 ] =  10 / 4 = 2
+ Chute - [1, 0, 2]
+
+
+ Iteracao 2
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -3 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 3
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 4
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 5
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 6
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 7
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 8
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 9
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+ Iteracao 10
+Chute [ 0 ] =  4 / 4 = 1
+Chute [ 1 ] =  -5 / 5 = -1
+Chute [ 2 ] =  12 / 4 = 3
+ Chute - [1, -1, 3]
+
+
+
+
+
+Questao 3 - B - Metodo Gauss Seidel
+
+Matrix -  [[3, 2, 1, 2], [2, 7, 2, -3], [1, 3, 5, 3]]
+ Iteracao 1
+Chute [ 0 ] =  2 / 3 = 0
+Chute [ 1 ] =  -3 / 7 = -1
+Chute [ 2 ] =  6 / 5 = 1
+ Chute - [0, -1, 1]
+
+
+ Iteracao 2
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 3
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 4
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 5
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 6
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 7
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 8
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 9
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+ Iteracao 10
+Chute [ 0 ] =  3 / 3 = 1
+Chute [ 1 ] =  -7 / 7 = -1
+Chute [ 2 ] =  5 / 5 = 1
+ Chute - [1, -1, 1]
+
+
+
+
+
+Questao 3 - C - Metodo Gauss Seidel
+
+Matrix -  [[1, 1, -3, 5], [0, -2, 1, -3], [-4, 1, -1, -2]]
+ Iteracao 1
+Chute [ 0 ] =  5 / 1 = 5
+Chute [ 1 ] =  -3 / -2 = 1
+Chute [ 2 ] =  17 / -1 = -17
+ Chute - [5, 1, -17]
+
+
+ Iteracao 2
+Chute [ 0 ] =  -47 / 1 = -47
+Chute [ 1 ] =  14 / -2 = -7
+Chute [ 2 ] =  -183 / -1 = 183
+ Chute - [-47, -7, 183]
+
+
+ Iteracao 3
+Chute [ 0 ] =  561 / 1 = 561
+Chute [ 1 ] =  -186 / -2 = 93
+Chute [ 2 ] =  2149 / -1 = -2149
+ Chute - [561, 93, -2149]
+
+
+ Iteracao 4
+Chute [ 0 ] =  -6535 / 1 = -6535
+Chute [ 1 ] =  2146 / -2 = -1073
+Chute [ 2 ] =  -25069 / -1 = 25069
+ Chute - [-6535, -1073, 25069]
+
+
+ Iteracao 5
+Chute [ 0 ] =  76285 / 1 = 76285
+Chute [ 1 ] =  -25072 / -2 = 12536
+Chute [ 2 ] =  292602 / -1 = -292602
+ Chute - [76285, 12536, -292602]
+
+
+ Iteracao 6
+Chute [ 0 ] =  -890337 / 1 = -890337
+Chute [ 1 ] =  292599 / -2 = -146300
+Chute [ 2 ] =  -3415050 / -1 = 3415050
+ Chute - [-890337, -146300, 3415050]
+
+
+ Iteracao 7
+Chute [ 0 ] =  10391455 / 1 = 10391455
+Chute [ 1 ] =  -3415053 / -2 = 1707526
+Chute [ 2 ] =  39858292 / -1 = -39858292
+ Chute - [10391455, 1707526, -39858292]
+
+
+ Iteracao 8
+Chute [ 0 ] =  -121282397 / 1 = -121282397
+Chute [ 1 ] =  39858289 / -2 = -19929145
+Chute [ 2 ] =  -465200445 / -1 = 465200445
+ Chute - [-121282397, -19929145, 465200445]
+
+
+ Iteracao 9
+Chute [ 0 ] =  1415530485 / 1 = 1415530485
+Chute [ 1 ] =  -465200448 / -2 = 232600224
+Chute [ 2 ] =  5429521714 / -1 = -5429521714
+ Chute - [1415530485, 232600224, -5429521714L]
+
+
+ Iteracao 10
+Chute [ 0 ] =  -16521165361 / 1 = -16521165361
+Chute [ 1 ] =  5429521711 / -2 = -2714760856
+Chute [ 2 ] =  -63369900590 / -1 = 63369900590
+ Chute - [-16521165361L, -2714760856L, 63369900590L]
+
+
+
+
+
+Questao 3 - D - Metodo Gauss Seidel
+
+Matrix -  [[3, 2, 1, 1], [1, -4, 2, 3], [1, -3, 5, -1]]
+ Iteracao 1
+Chute [ 0 ] =  1 / 3 = 0
+Chute [ 1 ] =  3 / -4 = -1
+Chute [ 2 ] =  -4 / 5 = -1
+ Chute - [0, -1, -1]
+
+
+ Iteracao 2
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 3
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 4
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 5
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 6
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 7
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 8
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 9
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
+
+
+ Iteracao 10
+Chute [ 0 ] =  4 / 3 = 1
+Chute [ 1 ] =  4 / -4 = -1
+Chute [ 2 ] =  -5 / 5 = -1
+ Chute - [1, -1, -1]
